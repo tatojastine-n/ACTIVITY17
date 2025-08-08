@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\MultiplicationTablePrinter\bin\Debug\MultiplicationTablePrinter.exe.config
+C:\Users\HP\source\repos\MultiplicationTablePrinter\bin\Debug\MultiplicationTablePrinter.exe
+C:\Users\HP\source\repos\MultiplicationTablePrinter\bin\Debug\MultiplicationTablePrinter.pdb
+C:\Users\HP\source\repos\MultiplicationTablePrinter\obj\Debug\MultiplicationTablePrinter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MultiplicationTablePrinter\obj\Debug\MultiplicationTablePrinter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MultiplicationTablePrinter\obj\Debug\MultiplicationTablePrinter.exe
+C:\Users\HP\source\repos\MultiplicationTablePrinter\obj\Debug\MultiplicationTablePrinter.pdb
